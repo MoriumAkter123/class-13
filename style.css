@@ -1,0 +1,50 @@
+.navber {
+    background-color: rgb(40, 36, 29);
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+    border: 1px solid rgb(252, 47, 255);
+
+
+
+
+}
+
+.link {
+
+    padding-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    position: absolute;
+    margin-left: 15px;
+
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(23, 22, 19);
+    border: 1px solid rgb(231, 47, 255);
+}
+
+.content {
+    height: 500px;
+    width: 100%;
+}
+
+a {
+    color: aliceblue;
+    margin-left: 25px;
+}
+
+.content {
+    margin-top: 24px;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    padding-left: 5px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
